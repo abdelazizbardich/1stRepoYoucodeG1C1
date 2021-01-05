@@ -1,0 +1,46 @@
+Faire une mise ajour ubuntu:
+sudo apt upgrade
+
+Changer l'utilisateur:
+sudo su [UserName]
+su [UserName]
+
+Créer un fichier:
+touch filename.html
+
+Créer un dossier:
+mkdir [FolderName]
+
+lancer visual studio code:
+code filename.html
+
+Suprimer un docier non vide:
+rm -d -rf [FolderName]
+Suprimer un docier:
+rm -d  [FolderName]
+
+Les commandes Github:
+
+Inintialiser git:
+git init
+
+Ajouter tous les ficher au staging:
+git add .
+
+Afficher le staus git:
+git status
+
+Preparer les fichier pour lenvoi au ghithub
+git commit -m 'Création index.html'
+
+Configurer les variable global d'authontifiaction git:
+git config --global user.email ""
+git config --global user.name ""
+
+Envoyer les ficher au repo github:
+
+Generer les clés ssh:
+ssh-keygen -t rsa -C "user github email"
+
+Installer un logiciel:
+sudo apt install [SoftwarePath]
