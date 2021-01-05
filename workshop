@@ -1,4 +1,19 @@
 1- Application de commande : man
 2- Il demmande Quelle page du manuel que je veu, 
 - pour afficher la page exacte que cherche
-3- la commande ls man  affiche une liste des commande ubunto avec ces description
+3- la commande man ls donne une description de la commande ls (nom - syntaxe est des remaques)
+4- espace(page suivant) entrée(line suivant) p(pour choisir une line) q(pour quiter le manuel)
+5- manls no fonctionne pas par-ce-quil n'est pas connu comme nom d'applet de commande,...
+6- ls(affiche une lists du contenu d'un dossier) ls -l(no fonctionne pas) ls -h(affiche une lists detaillé du contenu d'un dossier) ls -l -h(i,possible de trouver le chemin d'accès) ls -lh(Impossible de trouver un paramètre correspondant au nom « lh »)
+7- tous ces commande no fonctionne pas ls c'est just pour afficher les contenu de dossier
+8- pwd(affiche le chemin de travail) apres c/ les chemin est changé
+9- cd(ne fait rien) cd ~(entrer dans les dossier d'utilisateur) cd ..(entrer dans le docier parent avec un pas) cd/user/bin(enter directement dans le dossier bin qui'est dans user) cd -(ne fonctionnne pas)
+10- mkdir(créer un dossier) rmdir(suprimer un dossier rm -d peux faire le même)
+11- mkdir user/hp/test (créer un doccier dans un chemin specifique)
+12- touch(créer un ficher) 
+13- cp(cp "chemin du fichier" "destination") copier un fichier
+- rm(suprimer un ficher)
+14- mv(mv "chemin du fichier" "destination") deplacer un fichier
+15- mv test .. (deplacer le docier ver le repertoir parant)
+16- ln -s fichier_source fichier_destination
+17- cat nomDeFichier (créer un fichier est ajouté un contenu sans utiliser un editeur text)
