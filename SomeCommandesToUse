@@ -30,6 +30,9 @@ git add .
 Afficher le staus git:
 git status
 
+Telecharger la version ajoure du Repo:
+git pull 
+
 Preparer les fichier pour lenvoi au ghithub
 git commit -m 'Création index.html'
 
