@@ -43,7 +43,7 @@ git config --global user.name ""
 Envoyer les ficher au repo github:
 
 Generer les clés ssh:
-ssh-keygen -t rsa -C "user github email"
+ssh-keygen -t rsa -C "github user email"
 
 Installer un logiciel:
 sudo apt install [SoftwarePath]
