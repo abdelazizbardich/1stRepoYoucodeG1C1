@@ -32,26 +32,28 @@
      - ls /etc/ (affiche le contenu du dossier etc)
      - ls -a (affiche toute le contenu du dossier et les dossiers/fichiers caché)
      - lsusb (Affiche les ports usb avaliable dans la machine)
- tous ces commande no fonctionne pas ls c'est just pour afficher les contenu de dossier
+     - ls --color(pour changer la couleur des resultat comme ls --color=never (affiche tout les resultat en couleur blanc))
 
 8- 
- pwd(affiche le chemin de travail) apres c/ les chemin est changé
+ - pwd(affiche le chemin de travail)
+ - Apres la commande cd / le chemin est changé à la racine (root)
 
 9- 
- - cd(ne fait rien) 
- - cd ~(entrer dans les dossier d'utilisateur) 
+ - cd (entrer dans les dossier d'utilisateur) 
+ - cd ~ (entrer dans les dossier d'utilisateur) 
  - cd ..(entrer dans le docier parent avec un pas) 
- - cd/user/bin(enter directement dans le dossier bin qui'est dans user) 
- - cd -(ne fonctionnne pas)
+ - cd/usr/bin (enter directement dans le dossier bin qui'est dans usr) 
+ - cd - (Affiche le chemin du dossier bin)
 
-10
- - mkdir(créer un dossier) 
+10-
+ - mkdir(créer un dossier)
  - rmdir(suprimer un dossier rm -d peux faire le même)
+ - cd / (revenir à la repertoir racine)
 
-11
+11-
  - mkdir user/hp/test (créer un doccier dans un chemin specifique)
 
-12
+12-
  - touch(créer un ficher) 
 
 13
