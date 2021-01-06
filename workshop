@@ -42,7 +42,7 @@
  - cd (entrer dans les dossier d'utilisateur) 
  - cd ~ (entrer dans les dossier d'utilisateur) 
  - cd ..(entrer dans le docier parent avec un pas) 
- - cd/usr/bin (enter directement dans le dossier bin qui'est dans usr) 
+ - cd /usr/bin (enter directement dans le dossier bin qui'est dans usr) 
  - cd - (Affiche le chemin du dossier bin)
 
 10-
@@ -51,7 +51,7 @@
  - cd / (revenir à la repertoir racine)
 
 11-
- - mkdir user/hp/test (créer un doccier dans un chemin specifique)
+ - mkdir /home/abdelaziz/test (créer un doccier dans un chemin specifique)
 
 12-
  - touch(créer un ficher) 
@@ -73,4 +73,4 @@
 17
  - cat [nomDeFichier] (créer un fichier est ajouté un contenu sans utiliser un editeur text)
 
-18- 
+18
