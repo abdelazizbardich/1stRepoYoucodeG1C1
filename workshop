@@ -28,6 +28,10 @@
  - ls -lh(Impossible de trouver un paramètre correspondant au nom « lh »)
 
 7- 
+     - ls -lct (affiche les ficher en order par date)
+     - ls /etc/ (affiche le contenu du dossier etc)
+     - ls -a (affiche toute le contenu du dossier et les dossiers/fichiers caché)
+     - lsusb (Affiche les ports usb avaliable dans la machine)
  tous ces commande no fonctionne pas ls c'est just pour afficher les contenu de dossier
 
 8- 
