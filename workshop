@@ -46,7 +46,7 @@
  - cd - (Affiche le chemin du dossier bin)
 
 10-
- - mkdir(créer un dossier)
+ - mkdir(crécder un dossier)
  - rmdir(suprimer un dossier rm -d peux faire le même)
  - cd / (revenir à la repertoir racine)
 
@@ -71,6 +71,4 @@
  - ln -s fichier_source fichier_destination
 
 17
- - cat [nomDeFichier] (créer un fichier est ajouté un contenu sans utiliser un editeur text)
-
-18
+ - cat [nomDeFichier] (afficher le contenu d'un fichier sans utiliser un editeur text)
