@@ -1,7 +1,6 @@
 #include<stdio.h>
-
-int main(){
-    float pi = 3.14;
+#define pi 3.14;
+void main(){
     float r,P,D,S;
     printf("Entrer le rayon:\n");
     scanf("%f",&r);

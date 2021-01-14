@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+void main(){
 int numbre;
 int total;
 int i = 0;
