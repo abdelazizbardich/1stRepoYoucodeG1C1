@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610640819 source:/home/abdelaziz/Github_Directory/1stRepoYoucodeG1C1/C-workshop/step1/test2/main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+

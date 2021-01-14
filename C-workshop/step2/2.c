@@ -94,7 +94,7 @@ int main(){
 
     printf("===================\n");
     printf("Entrer le type d'operation:\n");
-
     scanf(" %c",&Operation);
+    
     makeCalculation(a,b,Operation);
 }
